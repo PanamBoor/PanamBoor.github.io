@@ -309,6 +309,7 @@ a{
 	max-width: 88px;
 	display: flex;
 	justify-content: space-between;
+	 list-style-type: none; 
 }
 .footer_contacts_icons li + li{
 	padding-left: 7px;
