@@ -335,7 +335,7 @@ a{
 .footer_footer{
 	display: flex;
 	justify-content: space-between;
-	max-width: 760px;
+	max-width: 530px;
 	margin:auto;
 	margin-top: 45px;
 }
